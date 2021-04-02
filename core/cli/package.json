@@ -1,13 +1,13 @@
 {
   "name": "@lin/cli",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "@lin/cli cli 脚手架",
   "author": "changlin93 <767425412@qq.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
   "bin": {
-    "lin":"bin/index.js"
+    "lin": "bin/index.js"
   },
   "publishConfig": {
     "access": "public"
