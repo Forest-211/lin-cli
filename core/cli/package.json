@@ -1,0 +1,25 @@
+{
+  "name": "@lin/cli",
+  "version": "0.0.0",
+  "description": "@lin/cli cli 脚手架",
+  "author": "changlin93 <767425412@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "bin": {
+    "lin":"bin/index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
