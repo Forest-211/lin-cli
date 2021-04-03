@@ -24,6 +24,7 @@
   },
   "gitHead": "d0169b8492815e7d921f348d37d2e27a37f5aa3c",
   "dependencies": {
-    "import-local": "^3.0.2"
+    "import-local": "^3.0.2",
+    "npmlog": "^4.1.2"
   }
 }
