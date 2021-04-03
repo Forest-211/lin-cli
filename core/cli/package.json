@@ -1,5 +1,5 @@
 {
-  "name": "@lin/cli",
+  "name": "@clin/cli",
   "version": "0.0.3",
   "description": "@lin/cli cli 脚手架",
   "author": "changlin93 <767425412@qq.com>",
@@ -22,7 +22,7 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "faee7792e0a0b45b9571fd92fb998d83e429218a",
+  "gitHead": "95e837a40aa91b7b33d8a03883481d733d70db34",
   "dependencies": {
     "import-local": "^3.0.2"
   }
